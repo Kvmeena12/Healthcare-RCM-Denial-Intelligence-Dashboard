@@ -1,0 +1,31 @@
+ec_ClaimNo,ec_PayerName,ec_InsuranceType,ec_ServiceDateFrom,ec_PrincipalDiagnosis,ec_PriorAuthorization,ec_ClaimFrequency
+CLM-1000,Medicare,Commercial,2025-06-15,M54.5,,1
+CLM-1001,Medicare,Commercial,2025-06-15,M17.11,,1
+CLM-1002,Aetna,Commercial,2025-06-15,M54.5,,1
+CLM-1003,United Healthcare,Commercial,2025-06-15,J06.9,,1
+CLM-1004,United Healthcare,Commercial,2025-06-15,M54.5,,1
+CLM-1005,Aetna,Commercial,2025-06-15,J06.9,,1
+CLM-1006,Blue Cross,Commercial,2025-06-15,M17.11,,1
+CLM-1007,Blue Cross,Commercial,2025-06-15,M17.11,,1
+CLM-1008,Blue Cross,Commercial,2025-06-15,M17.11,,1
+CLM-1009,Medicare,Commercial,2025-06-15,J06.9,,1
+CLM-1010,United Healthcare,Commercial,2025-06-15,J06.9,,1
+CLM-1011,Medicare,Commercial,2025-06-15,M17.11,,1
+CLM-1012,United Healthcare,Commercial,2025-06-15,M54.5,,1
+CLM-1013,Aetna,Commercial,2025-06-15,M17.11,,1
+CLM-1014,United Healthcare,Commercial,2025-06-15,J06.9,,1
+CLM-1015,United Healthcare,Commercial,2025-06-15,J06.9,,1
+CLM-1016,Blue Cross,Commercial,2025-06-15,M54.5,,1
+CLM-1017,United Healthcare,Commercial,2025-06-15,M17.11,,1
+CLM-1018,United Healthcare,Commercial,2025-06-15,J06.9,,1
+CLM-1019,Aetna,Commercial,2025-06-15,M54.5,,1
+CLM-1020,Medicare,Commercial,2025-06-15,M17.11,,1
+CLM-1021,United Healthcare,Commercial,2025-06-15,M54.5,,1
+CLM-1022,Blue Cross,Commercial,2025-06-15,M17.11,,1
+CLM-1023,Medicare,Commercial,2025-06-15,M17.11,,1
+CLM-1024,United Healthcare,Commercial,2025-06-15,J06.9,,1
+CLM-1025,United Healthcare,Commercial,2025-06-15,M17.11,,1
+CLM-1026,Blue Cross,Commercial,2025-06-15,M17.11,,1
+CLM-1027,Blue Cross,Commercial,2025-06-15,J06.9,,1
+CLM-1028,Blue Cross,Commercial,2025-06-15,M54.5,,1
+CLM-1029,United Healthcare,Commercial,2025-06-15,J06.9,,1
