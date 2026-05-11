@@ -400,7 +400,7 @@ The system successfully automates core denial analysis workflows while maintaini
 
 # Author
 
-Kunjbihari Meena  
+Kunjbihari
 M.Sc. Statistics  
 Indian Institute of Technology Bombay
 =======
